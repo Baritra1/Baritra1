@@ -1,6 +1,5 @@
 ![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baritra1&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baritra1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Baritra1&label=Profile%20views&color=0e75b6&style=flat" alt="Baritra1" />
 Purebred Java programmer who has experience with Python, Javascript, PHP (🤮), SQL, and Batch. Currently learning Typescript, C, and Rust.
 
 <!--
