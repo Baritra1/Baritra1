@@ -1,6 +1,6 @@
 ![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baritra1&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baritra1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime](https://wakatime.com/badge/user/1e789a02-2210-4082-a7c8-b113797c93e8.svg)](https://wakatime.com/@1e789a02-2210-4082-a7c8-b113797c93e8?style=default)
+[![wakatime](https://wakatime.com/badge/user/1e789a02-2210-4082-a7c8-b113797c93e8.svg)](https://wakatime.com/@1e789a02-2210-4082-a7c8-b113797c93e8)
  <br /> Purebred Java programmer who has experience with Python, Javascript, PHP (🤮), SQL, and Batch. Currently learning Typescript, C++, and Rust.
 
 <!--
